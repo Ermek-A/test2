@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         int m = nm(50);
-        System.out.println(m);
+        System.out.println(m+69);
 
     }
 }
